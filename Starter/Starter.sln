@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Starter\Starter.csproj", "{559CD9FD-167F-46B4-948A-C9705CF5980F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cheaito.libaray.tools", "cheaito.libaray.tools\cheaito.libaray.tools.csproj", "{F2AEB9E9-4C7F-4F0C-95FE-1A790FC2C767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipUtility", "ZipUtility\ZipUtility.csproj", "{17A46E90-86D1-47BE-AA6C-EC6277836360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559CD9FD-167F-46B4-948A-C9705CF5980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559CD9FD-167F-46B4-948A-C9705CF5980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559CD9FD-167F-46B4-948A-C9705CF5980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559CD9FD-167F-46B4-948A-C9705CF5980F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AEB9E9-4C7F-4F0C-95FE-1A790FC2C767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AEB9E9-4C7F-4F0C-95FE-1A790FC2C767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AEB9E9-4C7F-4F0C-95FE-1A790FC2C767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AEB9E9-4C7F-4F0C-95FE-1A790FC2C767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A46E90-86D1-47BE-AA6C-EC6277836360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A46E90-86D1-47BE-AA6C-EC6277836360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A46E90-86D1-47BE-AA6C-EC6277836360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A46E90-86D1-47BE-AA6C-EC6277836360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

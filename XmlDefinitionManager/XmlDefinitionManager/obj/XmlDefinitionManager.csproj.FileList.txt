@@ -1,0 +1,9 @@
+obj\Debug\XmlDefinitionManager.exe
+obj\Debug\XmlDefinitionManager.pdb
+bin\Debug\XmlDefinitionManager.exe
+bin\Debug\XmlDefinitionManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XmlDefinitionManager.MainAppUI.resources
+obj\Debug\XmlDefinitionManager.Properties.Resources.resources
+obj\Debug\XmlDefinitionManager.csproj.GenerateResource.Cache
+obj\Debug\XmlDefinitionManager.PropertyClass.resources

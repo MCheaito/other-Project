@@ -1,0 +1,7 @@
+D:\Projects\Mouhamad\Projects\Starter\Starter\obj\Debug\Starter.exe
+D:\Projects\Mouhamad\Projects\Starter\Starter\obj\Debug\Starter.pdb
+D:\Projects\Mouhamad\Projects\Starter\Bin\Starter.exe
+D:\Projects\Mouhamad\Projects\Starter\Bin\Starter.pdb
+D:\Projects\Mouhamad\Projects\Starter\Starter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Mouhamad\Projects\Starter\Starter\obj\Debug\Starter.Properties.Resources.resources
+D:\Projects\Mouhamad\Projects\Starter\Starter\obj\Debug\Starter.csproj.GenerateResource.Cache

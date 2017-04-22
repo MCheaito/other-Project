@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mp3Copier">
+</Property><Property Name="Solution File" Value="C:\Mouhamad\project\Mp3Copier\Mp3Copier.sln">
+</Property><Property Name="User Options File" Value="C:\Mouhamad\project\Mp3Copier\Mp3Copier.suo">
+</Property><Property Name="Date" Value="November 30, 2005">
+</Property><Property Name="Time" Value="21:15 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Mp3Copier.sln" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\Mp3Copier.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Copier.suo" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\Mp3Copier.suo">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="Mp3Copier.csproj" Description="Project file successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\Mp3Copier.csproj">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="Mp3Copier.csproj.user" Description="Project user file successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\Mp3Copier.csproj.user">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="BitReader.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\BitReader.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="FrmMain.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="ID3v1.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\ID3v1.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="ID3v2.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\ID3v2.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="id3v2Frame.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\id3v2Frame.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="mp3info.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\mp3info.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="MPEG.cs" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\MPEG.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="App.ico" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="FrmMain.resx" Description="File successfully backed up as C:\Mouhamad\project\Mp3Copier\Backup\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="Mp3Copier.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mp3Copier" Source="Mp3Copier.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Copier.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mp3Copier.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mp3Copier" Source="Mp3Copier.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

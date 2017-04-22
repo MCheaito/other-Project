@@ -1,0 +1,9 @@
+bin\Debug\ZipMe.exe
+bin\Debug\ZipMe.pdb
+bin\Debug\ZipUtility.dll
+bin\Debug\Dnd.Cda.Allies.Common.Compression.ZipLib.dll
+bin\Debug\Dnd.Cda.Allies.Common.Compression.ZipLib.pdb
+bin\Debug\ZipUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ZipMe.exe
+obj\Debug\ZipMe.pdb

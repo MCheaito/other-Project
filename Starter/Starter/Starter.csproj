@@ -1,0 +1,123 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{559CD9FD-167F-46B4-948A-C9705CF5980F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Starter</RootNamespace>
+    <AssemblyName>Starter</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="collections\Task.cs" />
+    <Compile Include="collections\TaskCollections.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Deployment.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="mnuActions.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\at.ico" />
+    <Content Include="Icons\bullet_ball_blue.ico" />
+    <Content Include="Icons\bullet_ball_glass_blue.ico" />
+    <Content Include="Icons\bullet_ball_glass_green.ico" />
+    <Content Include="Icons\bullet_ball_glass_grey.ico" />
+    <Content Include="Icons\bullet_ball_glass_red.ico" />
+    <Content Include="Icons\bullet_ball_glass_yellow.ico" />
+    <EmbeddedResource Include="Icons\bullet_ball_green.ico" />
+    <EmbeddedResource Include="Icons\bullet_ball_grey.ico" />
+    <Content Include="Icons\bullet_ball_red.ico" />
+    <Content Include="Icons\bullet_ball_yellow.ico" />
+    <Content Include="Icons\bullet_square_blue.ico" />
+    <Content Include="Icons\bullet_square_green.ico" />
+    <Content Include="Icons\bullet_square_grey.ico" />
+    <Content Include="Icons\bullet_square_red.ico" />
+    <Content Include="Icons\bullet_square_yellow.ico" />
+    <Content Include="Icons\bullet_triangle_blue.ico" />
+    <Content Include="Icons\bullet_triangle_green.ico" />
+    <Content Include="Icons\bullet_triangle_grey.ico" />
+    <Content Include="Icons\bullet_triangle_red.ico" />
+    <Content Include="Icons\bullet_triangle_yellow.ico" />
+    <Content Include="Icons\goblet_bronze.ico" />
+    <Content Include="Icons\goblet_gold.ico" />
+    <Content Include="Icons\goblet_gold_add.ico" />
+    <Content Include="Icons\goblet_gold_delete.ico" />
+    <Content Include="Icons\goblet_gold_new.ico" />
+    <Content Include="Icons\goblet_gold_preferences.ico" />
+    <Content Include="Icons\goblet_silver.ico" />
+    <Content Include="Icons\joypad.ico" />
+    <Content Include="Icons\woman1.ico" />
+    <Content Include="Icons\woman2.ico" />
+    <Content Include="Icons\woman3.ico" />
+    <Content Include="Icons\woman4.ico" />
+    <EmbeddedResource Include="Icons\worker.ico">
+    </EmbeddedResource>
+    <None Include="Icons\worker2.ico" />
+    <None Include="Release.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

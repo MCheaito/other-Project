@@ -1,0 +1,5 @@
+D:\Projects\Mouhamad\Binaries\Tools\ZipUtility\Debug\ZipUtility.dll
+D:\Projects\Mouhamad\Binaries\Tools\ZipUtility\Debug\ZipUtility.pdb
+D:\Projects\Mouhamad\Projects\Starter\ZipUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Mouhamad\Projects\Starter\ZipUtility\obj\Debug\ZipUtility.dll
+D:\Projects\Mouhamad\Projects\Starter\ZipUtility\obj\Debug\ZipUtility.pdb

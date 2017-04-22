@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestZipUtility.Form1.resources
+obj\Debug\TestZipUtility.csproj.GenerateResource.Cache
+..\..\..\..\Binaries\Tools\ZipUtility\Debug\Zipper.exe
+..\..\..\..\Binaries\Tools\ZipUtility\Debug\Zipper.pdb
+obj\Debug\Zipper.exe
+obj\Debug\Zipper.pdb

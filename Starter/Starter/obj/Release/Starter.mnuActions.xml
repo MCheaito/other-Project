@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Item description:
+    1. Id: unique item id (nameSpace.class.method)
+    2. name: menu description
+    3. feature: assembly name.
+    4. parameters: liste of parameters separated by;
+    5. Type: 
+      -MenuBuiltIn : Result displayed into menu
+      -Console:  
+    6. Interval in millisecondes
+-->
+<items>
+  <!--<item id="cheaito.libaray.tools.BuggIt.GetAssignedBug"	
+        feature="cheaito.libaray.tools.dll"  
+        name="Wait.."   
+        parameters="cheaito.m" 
+        type="MenuBuiltIn" 
+        interval="1000" 
+        startup="0"
+        image="Icon01.png"
+        />
+  <item id="cheaito.libaray.tools.BuggIt.GetNewAssignedBugs"
+      feature="cheaito.libaray.tools.dll"
+      name="Assigned Bugs with"
+      parameters="cheaito.m" 
+      type="MenuBuiltIn"
+      interval="1000"
+      startup="0"
+      image="Icon01.png"
+        />-->
+  <item id="cheaito.libaray.tools.ForAlliesWeb.SetLocalReleaseParamter"
+    feature="cheaito.libaray.tools.dll"
+    name="Compiling AlliesWeb [Release/local]"
+    parameters=""
+    type="Console"
+    interval="0"
+    startup="0"
+    image="Icon01.png"
+        />
+
+  <item id="cheaito.libaray.tools.ForAlliesWeb.SetLocalDebugParamter"
+  feature="cheaito.libaray.tools.dll"
+  name="Compiling AlliesWeb [Debug/local]"
+  parameters=""
+  type="Console"
+  interval="0"
+  startup="0"
+  image="Icon01.png"
+        />
+
+  <item id="cheaito.libaray.tools.ForAlliesWeb.PackagingAlliesWebClientFiles"
+  feature="cheaito.libaray.tools.dll"
+  name="Packaging Dll files"
+  parameters="D:\ALLIESWEB\CURRENT\Binaries\Release;D:\ALLIESWEB\CURRENT\Source\Tools\Server Files Batch\Assemblies"
+  type="Console"
+  interval="0"
+  startup="0"
+  image="Icon01.png"
+        />
+  <item id="cheaito.libaray.tools.ForAlliesWeb.PackagingAlliesWebClientFiles"
+  feature="cheaito.libaray.tools.dll"
+  name="Packaging Resources files"
+  parameters="D:\ALLIESWEB\CURRENT\Binaries\Resources;D:\ALLIESWEB\CURRENT\Source\Tools\Server Files Batch\Resources"
+  type="Console"
+  interval="0"
+  startup="0"
+  image="Icon01.png"
+        />
+
+</items>
+	

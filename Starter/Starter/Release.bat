@@ -1,0 +1,1 @@
+"D:\Program 2Files\Microsoft Visual Studio 8\Common7\IDE\devenv.exe" /build  Release "Allies Web.Sln"

@@ -1,0 +1,22 @@
+<configuration>
+	<types>
+		<type name="Auteur1">
+			<attributes>
+				<attribute id="id" name="ID" type="Text"></attribute>
+				<attribute id="name" name="name" type="Text"></attribute>
+				<attribute id="status" name="status" type="list">active;inactive;</attribute>
+			</attributes>
+			<containers>
+				<container name="Student" />
+			</containers>
+		</type>
+		<type name="Student">
+			<attributes>
+				<attribute id="id" name="ID" type="Text"></attribute>
+				<attribute id="name" name="name" type="Text"></attribute>
+				<attribute id="status" name="status" type="list">active;inactive;</attribute>
+			</attributes>
+		</type>
+	</types>
+
+</configuration>

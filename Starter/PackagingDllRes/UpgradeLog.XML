@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PackagingDllRes">
+</Property><Property Name="Solution File" Value="C:\Users\Cheaito\project\Starter\PackagingDllRes\PackagingDllRes.sln">
+</Property><Property Name="Date" Value="Sunday, August 29, 2010">
+</Property><Property Name="Time" Value="23:04:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PackagingDllRes" Source="PackagingDllRes.csproj" Description="Project file successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\PackagingDllRes.csproj">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmMainMenu.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmMainMenu.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmMainMenu.Designer.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmMainMenu.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmCompressing.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmCompressing.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmCompressing.Designer.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmCompressing.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Program.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="ZipManager.cs" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\ZipManager.cs">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmMainMenu.resx" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmMainMenu.resx">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="frmCompressing.resx" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\frmCompressing.resx">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Cheaito\project\Starter\PackagingDllRes\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="PackagingDllRes.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PackagingDllRes" Source="PackagingDllRes.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PackagingDllRes" Source="PackagingDllRes.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

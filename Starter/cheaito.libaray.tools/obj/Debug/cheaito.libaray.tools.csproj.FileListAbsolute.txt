@@ -1,0 +1,7 @@
+D:\Projects\Mouhamad\Projects\Starter\Bin\cheaito.libaray.tools.dll
+D:\Projects\Mouhamad\Projects\Starter\Bin\cheaito.libaray.tools.pdb
+D:\Projects\Mouhamad\Projects\Starter\cheaito.libaray.tools\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Mouhamad\Projects\Starter\cheaito.libaray.tools\obj\Debug\cheaito.libaray.tools.frmCompressing.resources
+D:\Projects\Mouhamad\Projects\Starter\cheaito.libaray.tools\obj\Debug\cheaito.libaray.tools.csproj.GenerateResource.Cache
+D:\Projects\Mouhamad\Projects\Starter\cheaito.libaray.tools\obj\Debug\cheaito.libaray.tools.dll
+D:\Projects\Mouhamad\Projects\Starter\cheaito.libaray.tools\obj\Debug\cheaito.libaray.tools.pdb

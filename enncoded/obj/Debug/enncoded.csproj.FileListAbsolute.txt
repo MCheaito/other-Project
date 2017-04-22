@@ -1,0 +1,8 @@
+C:\Users\Cheaito\project\enncoded\bin\Debug\enncoded.exe
+C:\Users\Cheaito\project\enncoded\bin\Debug\enncoded.pdb
+C:\Users\Cheaito\project\enncoded\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheaito\project\enncoded\obj\Debug\enncoded.Form1.resources
+C:\Users\Cheaito\project\enncoded\obj\Debug\ResGen.read.1.tlog
+C:\Users\Cheaito\project\enncoded\obj\Debug\ResGen.write.1.tlog
+C:\Users\Cheaito\project\enncoded\obj\Debug\enncoded.exe
+C:\Users\Cheaito\project\enncoded\obj\Debug\enncoded.pdb

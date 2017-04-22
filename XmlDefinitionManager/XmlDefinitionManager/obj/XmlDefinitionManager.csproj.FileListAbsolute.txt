@@ -1,0 +1,8 @@
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\bin\Debug\XmlDefinitionManager.exe
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\bin\Debug\XmlDefinitionManager.pdb
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\ResolveAssemblyReference.cache
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\XmlDefinitionManager.MainAppUI.resources
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\XmlDefinitionManager.Properties.Resources.resources
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\XmlDefinitionManager.csproj.GenerateResource.Cache
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\XmlDefinitionManager.exe
+D:\mouhamad\project\XmlDefinitionManager\XmlDefinitionManager\obj\Debug\XmlDefinitionManager.pdb

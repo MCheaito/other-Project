@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ZipUtility.dll
+obj\Debug\ZipUtility.pdb
+..\..\..\Binaries\Tools\ZipUtility\Debug\ZipUtility.dll
+..\..\..\Binaries\Tools\ZipUtility\Debug\ZipUtility.pdb
+..\..\..\Binaries\Tools\ConvertXmlToZip\Release\ZipUtility.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ZipUtility.dll

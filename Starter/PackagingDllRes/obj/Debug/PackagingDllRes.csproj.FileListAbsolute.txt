@@ -1,0 +1,2 @@
+C:\Users\Cheaito\project\Starter\PackagingDllRes\obj\Debug\PackagingDllRes.exe
+C:\Users\Cheaito\project\Starter\PackagingDllRes\obj\Debug\PackagingDllRes.pdb

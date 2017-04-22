@@ -1,0 +1,8 @@
+DESCRIPTION 'Microsoft KB Sample DLL'
+EXPORTS
+	DisplayStringByVal
+	DisplayStringByRef
+	FillString
+	InStrRev
+	ConvertToPDF
+	

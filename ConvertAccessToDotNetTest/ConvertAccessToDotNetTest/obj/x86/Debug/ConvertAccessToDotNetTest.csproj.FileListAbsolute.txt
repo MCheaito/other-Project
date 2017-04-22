@@ -1,0 +1,9 @@
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\bin\Debug\ConvertAccessToDotNetTest.exe
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\bin\Debug\ConvertAccessToDotNetTest.pdb
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\ConvertAccessToDotNetTest.Form1.resources
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\ConvertAccessToDotNetTest.Properties.Resources.resources
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\ConvertAccessToDotNetTest.exe
+C:\Users\Cheaito\project\ConvertAccessToDotNetTest\ConvertAccessToDotNetTest\obj\x86\Debug\ConvertAccessToDotNetTest.pdb
